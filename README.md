@@ -12,6 +12,6 @@ conda activate omr
 ```
 Install the requirements with pip
 ```
-pip install -r req.txt
+pip install -r requirements.txt
 ```
 Run the notebook, selecting the venv just created as kernel.
